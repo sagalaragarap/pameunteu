@@ -1,0 +1,12 @@
+{
+    "name": "sagalaragarp/warta",
+    "authors": [
+        {
+            "name": "Purwa Darozatun",
+            "email": "purwadarozatunakis@gmail.com"
+        }
+    ],
+    "require": {
+        "sly/notification-pusher": "^2.2.13"
+    }
+}
